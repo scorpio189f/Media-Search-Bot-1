@@ -6,7 +6,7 @@
 
 ## Installation
 
-### Watch this video to create bot - https://youtu.be/dsuTn4qV2GA
+### Watch this video to create bot - https://youtu.be/wbnRI2Cxef4
 ### Easy Way
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/infotechIT/Media-Search-Bot)
 

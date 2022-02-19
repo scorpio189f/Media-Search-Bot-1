@@ -8,7 +8,7 @@
 
 ### Watch this video to create bot - https://youtu.be/wbnRI2Cxef4
 ### Easy Way
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/infotechIT/Media-Search-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/scorpio189f/Media-Search-Bot-1)
 
 ### Hard Way
 ```bash

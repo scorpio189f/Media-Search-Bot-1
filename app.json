@@ -13,7 +13,7 @@
       "inline"
     ],
     "website": "https://github.com/infotechIT/Media-Search-Bot",
-    "repository": "https://github.com/infotechIT/Media-Search-Bot",
+    "repository": "https://github.com/scorpio189f/Media-Search-Bot-1",
     "env": {
         "BOT_TOKEN": {
             "description": "Your bot token.",
